@@ -6,23 +6,20 @@ This repository is organized by **patterns**, not random problem order — makin
 
 ## 📁 Folder Structure
 
+```
 dsa/
-    arrays/
-    hashmaps/
-    hashsets/
-    two_pointers/
-    prefix_sum/
-    sliding_window/
-    stacks/
-    binary_search/
-    trees/
-    graphs/
-    dynamic_programming/
-
-docs/
-    roadmap.pdf
-    roadmap.md
-
+├── arrays/
+├── hashmaps/
+├── hashsets/
+├── two_pointers/
+├── prefix_sum/
+├── sliding_window/
+├── stacks/
+├── binary_search/
+├── trees/
+├── graphs/
+├── dynamic_programming/
+```
 
 Each folder contains Python solutions for problems belonging to that specific pattern.
 
