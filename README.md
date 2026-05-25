@@ -105,15 +105,6 @@ Once you understand the pattern, you can solve dozens of problems with the same 
 
 ---
 
-## 📚 Additional Docs
-
-Inside the `docs/` folder:
-
-- `roadmap.pdf` — 2‑month DSA + FAANG prep plan  
-- `roadmap.md` — editable version of the study plan  
-
----
-
 ## 🧑‍💻 Author
 
 **Vivek**  
