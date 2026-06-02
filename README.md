@@ -15,10 +15,12 @@ dsa/
 ├── prefix_sum/
 ├── sliding_window/
 ├── stacks/
-├── binary_search/
+├── binary_search_on_answer/
 ├── trees/
 ├── graphs/
 ├── dynamic_programming/
+├── heaps/
+├── intervals/
 ```
 
 Each folder contains Python solutions for problems belonging to that specific pattern.
