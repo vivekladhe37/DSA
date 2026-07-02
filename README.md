@@ -21,6 +21,7 @@ dsa/
 ├── dynamic_programming/
 ├── heaps/
 ├── intervals/
+├── binary_search/
 ```
 
 Each folder contains Python solutions for problems belonging to that specific pattern.
